@@ -48,4 +48,4 @@ for i in $(eval echo "{1..$LENGTH}"); do
   fi
 done
 
-echo -e ' '$RIGHT_SIDE
+echo -e ''$RIGHT_SIDE
